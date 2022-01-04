@@ -1,40 +1,48 @@
-AlertOps Expert Guidance
+Top 10 Reasons AlertOps is Better Than PagerDuty: #2
 ========
 
- 
-The phrase ‘stakeholder management” assumes that stakeholders are truly informed by alerts. However, managers can only send communications out, they cannot force people to address them. To ensure your stakeholders are engaged during an incident, it is vital to set up a defined communication process. Yet, a recent Red Canary report1 found that 43% of surveyed participants lack readiness to notify the public and/or its customers in the event of a security breach. Without a clear strategy in place, communication can get lost in the chaos leaving stakeholders uninformed.
+Compare AlertOps to Pagerduty SLA-based incident management
 
-Not One Size Fits All
-=====
-Sending the same notification to all your stakeholders can cause a lot of confusion and create unwanted alert noise. Some users shouldn’t receive technical information, others require all the nitty gritty details. Every alert should be tailored based on a user’s expertise or role.
-Means of Communication
+A service-level agreement (SLA) defines the level of service expected from a service provider. As such, an SLA plays a key role in an organization’s ability to fulfill customer requests.  
+If an organization breaks an SLA, it risks significant revenue and brand reputation damage. Perhaps worst of all, this organization may lose customers to its rivals if it cannot comply with SLA mandates.  
 
-Strategize mode(s) of communication to be used when communicating with stakeholders. Understand which tools engage stakeholders the most. It is also vital to unify these channels for streamlined points of contact.
+Typically, an SLA will include various metrics that define the service levels that an organization must guarantee. These metrics may include: 
 
-Automate Processes
-====
-Engaging stakeholders can take up a lot of time. Automate stakeholder communications to ensure efficient delivery of insightful information. Implement AlertOps so you can focus on getting ahead of incidents while knowing your alerts reach the right person, through the right channel, every time. Sending regular updates to stakeholders during an incident is vital to keep them calm. Automation addresses your stakeholders’ needs while ensuring they remain aligned with minimal manual work.
+    Reliability: Also known as uptime percentage, this refers to the time when a service is available. An organization is expected to limit outages and downtime to meet service reliability requirements.  
+    Responsiveness: Defines the punctuality of services. For example, responsiveness may be used to measure how quickly an organization responds to a customer’s service requests and scheduled service dates.  
+    Monitoring and Reporting: Describes the measures that an organization will take to monitor service performance, along with the data collected relative to service performance and whether this data is shared with a customer.  
 
-Clarity
-====
-A highly flexible incident management and alert automation tool, AlertOps is powered by an open API, with the ability to connect with practically any communication tool. Once plugged in, AlertOps delivers alerts with relevant incident information so that stakeholders can stay in the loop from detection to resolution.
-Any Way You Want It…
+AlertOps helps you take an SLA-first approach to incident management. In fact, our incident management system helps you quickly and effortlessly manage your service levels and speed time to resolution. 
 
-Since you use multiple channels for communication, you need an alerting system that sends alerts through multiple communication channels. AlertOps delivers alerts any way you want. Receive alerts by phone, SMS, or email. Even integrate with all your favorite chat tools, such as Slack and Microsoft Teams, so that users receive alerts where they are most likely to see them.
+Our SLA-based incident management is unique among Pagerduty competitors, and is an important part of effective incident management. It allows an organization to define workflow timelines backward or forward from an incident’s SLA-mandated deadline.  
 
-Insightful Notifications
-====
-Alerts are only useful if they contain information relevant to the user. With AlertOps, customized messages make it easy for stakeholders to quickly understand an incident. They can also receive updates throughout the course of handling the incident. Make sure emails are actionable as well. Send emails in rich text and HTML to include graphs, images, custom links, runbook links or links to a conference bridge for any alert. The solution even offers voice messages with incident details from the embedded phone system.
+ For example, if you have four critical incident types, each with a different SLA, you can define a policy for each SLA, and your workflow escalations can then be triggered based on this agreement. With this capability, you can notify team members and management when an SLA deadline is threatened. 
 
-Conclusion
-====
-Effective incident response requires, not only sending the right information to the right people, but also ensuring those stakeholders are engaged and truly informed. It is vital to have a plan in place for ensuring that each type of stakeholder receives only the information he or she needs. AlertOps ensures that your alerts reach the right person, through the right channel, every time.
+Additionally, our SLA-based incident management provides you with more control over your service levels than ever before. It enables you to prioritize your incident management workload, resulting in fast, efficient incident management.  
 
-1 Red Canary 2021 Threat Detection Report
+How Does SLA-Based Incident Management Work? 
+
+Most incident management systems work forward from the time an incident occurs. With these systems, escalations generally look something like this: 
+
+30 minutes after the incident is created, notify Tom. 
+
+30 minutes after Tom is notified, notify Sally. 
+
+… and so on. 
+
+The aforementioned response is ideal for escalating incident notifications. Yet it does not account for service levels.  
+
+Thanks to our SLA-based incident management system, you can set triggers to send reminders to incident management teams based on the time before an SLA. Or, you can set a trigger to notify a manager when an SLA is approaching or after an SLA passes. That way, you can gain unprecedented control of your service levels and limit the risk that you’ll miss an SLA.  
+
+AlertOps goes above and beyond the call of duty to deliver superior SLA-based incident management. Our incident management system enables you to establish SLAs globally by priority or at a Message Rule level. Plus, when you use our SLA-based incident management capabilities, you can instantly find out how you are performing against SLAs for specific priorities or policies (Message Rules). 
+
+To learn more about AlertOps, please contact us today at (844) 292-8255 or email us at sales@alertops.com.  
+
+Not yet convinced? Well, in Part 3 we discuss how AlertOps approaches Manual Paging to speed up incident response and resolution.
 
 source:
 ====
-https://alertops.com/red-canary-says-43-lack-readiness-to-notify-customers-of-a-security-breach/
+https://alertops.com/alertops-better-than-pagerduty-2/
 
 Read more:
 ====
